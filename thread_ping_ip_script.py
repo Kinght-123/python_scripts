@@ -80,9 +80,11 @@ def ping_device(ip_list, ip_log_dir="ping-ip-logs"):
                 if ping_time == 0:
                     results[status].append(ip)
                 else:
-                    results[status].append(f'{ip:<13}, 延迟: {ping_time}ms')
-
-            success_ips, unreachable_ips = results['success'], results['unreachable']
+                    results[status].append(f'{ip:<13} | 延迟: {ping_time}ms')
+            # 按照ip的最后一部分进行排序
+            success_ips, unreachable_ips = sorted(results['success'],
+                                                  key=lambda x: int(x.split('.')[3].split()[0])), sorted(
+                results['unreachable'], key=lambda x: int(x.split('.')[3]))
             copy_unreachable_ips = unreachable_ips.copy()
             # 补全空缺值
             if len(success_ips) < len(unreachable_ips):
@@ -96,7 +98,10 @@ def ping_device(ip_list, ip_log_dir="ping-ip-logs"):
                 fp.write(
                     f"在线的IP列表 ({len(results['success'])}个):  \t\t\t 离线的IP列表 ({len(copy_unreachable_ips)}个):\n")
                 for success_ip, unreachable_ip in zip(success_ips, unreachable_ips):
-                    fp.write(f"{success_ip.ljust(42)}{unreachable_ip}\n")
+                    if success_ip:
+                        fp.write(f"{success_ip.ljust(42)}{unreachable_ip}\n")
+                    else:
+                        fp.write(f"{' ' * 44}{unreachable_ip}\n")
                 # f.write(f"可以ping通的IP列表 ({len(results['success'])}个):\n")
                 # f.write('\n'.join(results['success']) + '\n')
                 #

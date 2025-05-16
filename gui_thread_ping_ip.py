@@ -157,8 +157,18 @@ def ping_device(ip_list, ip_log_dir="ping-ip-logs"):
                     else:
                         results[status].append(f'{ip}, 延迟: {ping_time}ms')
 
-                print(f'99: {results["success"]}')
-                print(f'66: {results["unreachable"]}')
+                # 按照ip的最后一部分进行排序
+                success_ips, unreachable_ips = sorted(results['success'],
+                                                      key=lambda x: int(x.split('.')[3].split()[0])), sorted(
+                    results['unreachable'], key=lambda x: int(x.split('.')[3]))
+                copy_unreachable_ips = unreachable_ips.copy()
+                # 补全空缺值
+                if len(success_ips) < len(unreachable_ips):
+                    success_ips.extend([''] * (len(unreachable_ips) - len(success_ips)))
+                elif len(success_ips) > len(unreachable_ips):
+                    unreachable_ips.extend([''] * (len(success_ips) - len(unreachable_ips)))
+                print(success_ips)
+                print(unreachable_ips)
                 # 更新GUI显示
                 # gui.update_display(results)
                 # 写入日志文件
