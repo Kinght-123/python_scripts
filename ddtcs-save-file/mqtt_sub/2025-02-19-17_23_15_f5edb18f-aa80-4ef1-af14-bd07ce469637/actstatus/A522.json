@@ -1,0 +1,42 @@
+{
+    "header": {
+        "trans_id": "187d831c-a065-4f67-aee4-514b0b414f1d",
+        "che_id": "A522",
+        "timestamp": "2025-02-19T17:23:15.570671Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T17:23:15.570748Z",
+    "updated": "2025-02-19T17:23:15.576093Z",
+    "state_flow": 1,
+    "task_mode": 1,
+    "task_id": "COMMAND&x2ficyWzVo",
+    "navi_id": "A522_COMMAND&x2ficyWzVo_4",
+    "target": "PARK",
+    "sub_target": "N9_105_HEAD",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566945.5720913743,
+        "y": 4317788.159384855
+    },
+    "yaw": 0.3193213180464262,
+    "gear": 3,
+    "speed": 5.4,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "0"
+        }
+    ],
+    "mileage": 143.57552,
+    "operational_status": 1,
+    "distance_to_target": 80.59237,
+    "host": "10.188.63.104",
+    "port": "5522",
+    "task_type": 7,
+    "rt_speed": 1.5,
+    "frame_ts": 541584200.200313,
+    "model_type": {}
+}

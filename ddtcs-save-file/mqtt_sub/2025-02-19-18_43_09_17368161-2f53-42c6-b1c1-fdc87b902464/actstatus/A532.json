@@ -1,0 +1,37 @@
+{
+    "header": {
+        "trans_id": "3e90e19b-6dee-4f36-8574-6c4fc089ae44",
+        "che_id": "A532",
+        "timestamp": "2025-02-19T18:43:09.825118Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T18:43:09.825186Z",
+    "updated": "2025-02-19T18:43:09.835187Z",
+    "task_mode": 1,
+    "task_id": "COMMAND&RV37yQ23ln",
+    "navi_id": "A532_COMMAND&RV37yQ23ln_45",
+    "target": "PSTP",
+    "sub_target": "100",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566862.4278707543,
+        "y": 4318056.979787056
+    },
+    "yaw": -2.9156521685174814,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "7"
+        }
+    ],
+    "mileage": 136.50084,
+    "operational_status": 1,
+    "host": "10.188.63.104",
+    "port": "5532",
+    "task_type": 7,
+    "frame_ts": 546378480.2047781,
+    "model_type": {}
+}

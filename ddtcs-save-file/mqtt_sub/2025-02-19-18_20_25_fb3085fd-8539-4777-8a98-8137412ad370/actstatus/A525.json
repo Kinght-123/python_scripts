@@ -1,0 +1,49 @@
+{
+    "header": {
+        "trans_id": "71eedec0-39be-4ec6-8c1c-da32f7f26fcf",
+        "che_id": "A525",
+        "timestamp": "2025-02-19T18:20:25.040553Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T18:20:25.040609Z",
+    "updated": "2025-02-19T18:20:25.040295Z",
+    "state_flow": 6,
+    "task_mode": 1,
+    "task_id": "COMMAND&C8RJf19cxf",
+    "navi_id": "A525_COMMAND&C8RJf19cxf_22",
+    "target": "PARK",
+    "sub_target": "YCTP_6D_TAIL",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566708.9663243417,
+        "y": 4317812.213045788
+    },
+    "yaw": -1.3431842292559746,
+    "gear": 3,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "1"
+        }
+    ],
+    "mileage": 168.5775,
+    "operational_status": 1,
+    "distance_to_target": 35.276287,
+    "host": "10.188.63.104",
+    "port": "5525",
+    "task_type": 7,
+    "frame_ts": 545013840.203507,
+    "sender_stop": "ddtcs",
+    "stop_infos": [
+        {
+            "created": "2025-02-19T17:24:13.894286Z",
+            "sender": "ddtcs",
+            "type": 2,
+            "reason": "与A521冲突导致停车"
+        }
+    ],
+    "model_type": {}
+}

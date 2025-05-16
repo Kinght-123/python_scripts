@@ -1,0 +1,45 @@
+{
+    "header": {
+        "trans_id": "af8759e6-f8ff-43f4-beb8-baec17e1eaca",
+        "che_id": "A524",
+        "timestamp": "2025-02-19T18:43:21.828777Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T18:43:21.828836Z",
+    "updated": "2025-02-19T18:43:21.839294Z",
+    "task_mode": 1,
+    "task_id": "COMMAND&1m46s7uhl8",
+    "navi_id": "A524_COMMAND&1m46s7uhl8_46",
+    "target": "O1D",
+    "sub_target": "52",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566810.9022153076,
+        "y": 4318013.464853188
+    },
+    "yaw": -1.3794583615242297,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "7"
+        }
+    ],
+    "mileage": 142.52151,
+    "operational_status": 1,
+    "host": "10.188.63.104",
+    "port": "5524",
+    "task_type": 7,
+    "frame_ts": 546390460.2047889,
+    "stop_infos": [
+        {
+            "created": "2025-02-19T17:11:43.612505Z",
+            "sender": "ddtcs",
+            "type": 2,
+            "reason": "与A534冲突导致停车"
+        }
+    ],
+    "model_type": {}
+}

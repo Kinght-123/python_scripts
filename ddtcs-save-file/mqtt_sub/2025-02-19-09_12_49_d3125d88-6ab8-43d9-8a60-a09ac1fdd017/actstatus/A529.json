@@ -1,0 +1,51 @@
+{
+    "header": {
+        "trace_id": "c1fbd63b5b49448aab2726a7d292032a",
+        "trans_id": "d3a049ca-19b7-441c-9dbf-17fa6159395a",
+        "che_id": "A529",
+        "timestamp": "2025-02-19T09:12:49.729768Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T09:12:49.729825Z",
+    "updated": "2025-02-19T09:12:49.742563Z",
+    "state_flow": 6,
+    "task_mode": 1,
+    "trace_id": "c1fbd63b5b49448aab2726a7d292032a",
+    "task_id": "46508961-2dd1-4f56-8b10-15170393c4a2",
+    "navi_id": "A529_46508961-2dd1-4f56-8b10-15170393c4a2_5",
+    "target": "PARK",
+    "sub_target": "N9_107_HEAD",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566903.3135291294,
+        "y": 4317950.471643421
+    },
+    "yaw": 1.7987979621192285,
+    "gear": 3,
+    "soh": 100,
+    "soc": 99,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "1"
+        }
+    ],
+    "mileage": 138.98729,
+    "operational_status": 1,
+    "distance_to_target": 57.041645,
+    "host": "10.188.63.104",
+    "port": "5529",
+    "task_type": 7,
+    "crane_id": "PARK",
+    "frame_ts": 512158500.172908,
+    "sender_stop": "ddtcs",
+    "stop_infos": [
+        {
+            "created": "2025-02-19T03:29:37.897898Z",
+            "sender": "ddtcs",
+            "type": 2,
+            "reason": "与A530冲突导致停车"
+        }
+    ],
+    "model_type": {}
+}

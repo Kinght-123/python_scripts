@@ -1,0 +1,41 @@
+{
+    "header": {
+        "trace_id": "cbf55148c0d64717b38f9db62fac8407",
+        "trans_id": "1ece81cb-ce1e-474d-b826-de0d7c190714",
+        "che_id": "A529",
+        "timestamp": "2025-02-19T18:43:09.627985Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T18:43:09.628027Z",
+    "updated": "2025-02-19T18:43:09.628675Z",
+    "state_flow": 9,
+    "task_mode": 1,
+    "trace_id": "cbf55148c0d64717b38f9db62fac8407",
+    "task_id": "6fefb3d62a3343438050ba331cbd8d4e",
+    "navi_id": "A529_6fefb3d62a3343438050ba331cbd8d4e_16",
+    "target": "Q110",
+    "sub_target": "7",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566910.274103371,
+        "y": 4317920.465417633
+    },
+    "yaw": 1.7988002379839316,
+    "soh": 100,
+    "soc": 99,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "2"
+        }
+    ],
+    "mileage": 155.48189,
+    "operational_status": 1,
+    "distance_to_target": 0.27023834,
+    "host": "10.188.63.104",
+    "port": "5529",
+    "task_type": 2,
+    "crane_id": "Q110",
+    "frame_ts": 546378400.204778,
+    "model_type": {}
+}

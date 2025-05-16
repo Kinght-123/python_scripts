@@ -1,0 +1,2900 @@
+[
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.4836738005,
+            "y": 4317861.162061666,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.6116146112,
+            "y": 4317860.576621374,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.7251750807,
+            "y": 4317859.989427312,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.8249473053,
+            "y": 4317859.400551691,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.9115233816,
+            "y": 4317858.810066722,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.9854954054,
+            "y": 4317858.218044614,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.0474554732,
+            "y": 4317857.624557576,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.0979956811,
+            "y": 4317857.0296778185,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.1377081253,
+            "y": 4317856.433477548,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.1671849022,
+            "y": 4317855.836028978,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.1870181081,
+            "y": 4317855.2374043185,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.1977998391,
+            "y": 4317854.637675776,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.2001221915,
+            "y": 4317854.036915563,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.1945772615,
+            "y": 4317853.435195887,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.1817571456,
+            "y": 4317852.83258896,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.1622539392,
+            "y": 4317852.229166987,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.1366597399,
+            "y": 4317851.625002186,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.1055666427,
+            "y": 4317851.020166758,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.0695667446,
+            "y": 4317850.414732917,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566780.0292521415,
+            "y": 4317849.808772872,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.9852149299,
+            "y": 4317849.202358833,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.9380472057,
+            "y": 4317848.595563008,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.8883410654,
+            "y": 4317847.988457609,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.8366886054,
+            "y": 4317847.381114846,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.7836819212,
+            "y": 4317846.773606924,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.7299131103,
+            "y": 4317846.16600606,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.6759742678,
+            "y": 4317845.558384458,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.6224574903,
+            "y": 4317844.950814329,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.5699548742,
+            "y": 4317844.343367883,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.5190585157,
+            "y": 4317843.736117329,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.470360511,
+            "y": 4317843.129134879,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.4244529563,
+            "y": 4317842.52249274,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.381927948,
+            "y": 4317841.916263124,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.3433775823,
+            "y": 4317841.310518239,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.3093939552,
+            "y": 4317840.705330294,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.2805691632,
+            "y": 4317840.1007715,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.2574953024,
+            "y": 4317839.496914066,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.2407644691,
+            "y": 4317838.8938302025,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.2309687596,
+            "y": 4317838.291592119,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.2287002702,
+            "y": 4317837.690272026,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.234551097,
+            "y": 4317837.08994213,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.2491133364,
+            "y": 4317836.490674644,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.2729790844,
+            "y": 4317835.8925417755,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.3067404374,
+            "y": 4317835.295615736,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.3509894918,
+            "y": 4317834.699968734,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.4063183436,
+            "y": 4317834.10567298,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.473319089,
+            "y": 4317833.512800681,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.5525838246,
+            "y": 4317832.921424051,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.6447046462,
+            "y": 4317832.331615296,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.7502736504,
+            "y": 4317831.743446629,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.8698829333,
+            "y": 4317831.156990256,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3432916085859494,
+        "id": "",
+        "lane_type": 0,
+        "pos": {
+            "x": 566779.9451561882,
+            "y": 4317830.820969224,
+            "yaw": -1.3432916085859494,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 10,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 7
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566780.0583708612,
+            "y": 4317830.333955428,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566780.1715855342,
+            "y": 4317829.846941631,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566780.2848002072,
+            "y": 4317829.359927835,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566780.3980148803,
+            "y": 4317828.872914039,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566780.5112295531,
+            "y": 4317828.385900242,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566780.6244442262,
+            "y": 4317827.898886446,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566780.7376588992,
+            "y": 4317827.41187265,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566780.8508735722,
+            "y": 4317826.924858853,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566780.9640882452,
+            "y": 4317826.437845057,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566781.0773029182,
+            "y": 4317825.9508312605,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566781.1905175912,
+            "y": 4317825.463817464,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566781.3037322642,
+            "y": 4317824.976803668,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566781.4169469372,
+            "y": 4317824.4897898715,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566781.5301616102,
+            "y": 4317824.002776075,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566781.6433762831,
+            "y": 4317823.515762279,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566781.7565909561,
+            "y": 4317823.0287484825,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566781.8698056291,
+            "y": 4317822.541734686,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566781.9830203021,
+            "y": 4317822.05472089,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566782.0962349751,
+            "y": 4317821.567707093,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566782.2094496482,
+            "y": 4317821.080693297,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566782.3226643212,
+            "y": 4317820.593679501,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566782.4358789942,
+            "y": 4317820.106665704,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566782.5490936672,
+            "y": 4317819.619651908,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566782.6623083402,
+            "y": 4317819.132638112,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566782.7755230131,
+            "y": 4317818.645624315,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566782.8887376861,
+            "y": 4317818.158610519,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566783.0019523591,
+            "y": 4317817.671596723,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566783.1151670321,
+            "y": 4317817.184582926,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566783.2283817051,
+            "y": 4317816.69756913,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566783.3415963781,
+            "y": 4317816.210555334,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566783.4548110511,
+            "y": 4317815.723541537,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566783.5680257241,
+            "y": 4317815.236527741,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566783.6812403972,
+            "y": 4317814.749513945,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566783.7944550702,
+            "y": 4317814.262500148,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566783.907669743,
+            "y": 4317813.775486352,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566784.0208844161,
+            "y": 4317813.288472556,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566784.1340990891,
+            "y": 4317812.801458759,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566784.2473137621,
+            "y": 4317812.314444963,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566784.3605284351,
+            "y": 4317811.827431167,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566784.4737431081,
+            "y": 4317811.340417371,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566784.5869577811,
+            "y": 4317810.853403575,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566784.7001724541,
+            "y": 4317810.366389778,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566784.8133871271,
+            "y": 4317809.879375982,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566784.9266018001,
+            "y": 4317809.392362186,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566785.039816473,
+            "y": 4317808.905348389,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566785.153031146,
+            "y": 4317808.418334593,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566785.266245819,
+            "y": 4317807.931320797,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566785.379460492,
+            "y": 4317807.444307,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566785.4926751651,
+            "y": 4317806.957293204,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566785.6058898381,
+            "y": 4317806.470279408,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566785.7191045111,
+            "y": 4317805.983265611,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566785.8323191841,
+            "y": 4317805.496251815,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566785.9455338571,
+            "y": 4317805.009238019,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566786.0587485301,
+            "y": 4317804.522224222,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566786.171963203,
+            "y": 4317804.035210426,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566786.285177876,
+            "y": 4317803.54819663,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566786.398392549,
+            "y": 4317803.061182833,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566786.511607222,
+            "y": 4317802.574169037,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566786.624821895,
+            "y": 4317802.087155241,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566786.738036568,
+            "y": 4317801.600141444,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566786.851251241,
+            "y": 4317801.113127648,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566786.9644659141,
+            "y": 4317800.626113852,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566787.0776805871,
+            "y": 4317800.139100055,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566787.19089526,
+            "y": 4317799.652086259,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566787.304109933,
+            "y": 4317799.1650724625,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566787.417324606,
+            "y": 4317798.678058666,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566787.530539279,
+            "y": 4317798.19104487,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566787.643753952,
+            "y": 4317797.7040310735,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566787.756968625,
+            "y": 4317797.217017277,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566787.870183298,
+            "y": 4317796.730003481,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566787.983397971,
+            "y": 4317796.242989684,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566788.096612644,
+            "y": 4317795.755975888,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566788.209827317,
+            "y": 4317795.268962092,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566788.3230419899,
+            "y": 4317794.781948295,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566788.436256663,
+            "y": 4317794.294934499,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566788.549471336,
+            "y": 4317793.807920703,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566788.662686009,
+            "y": 4317793.320906906,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566788.775900682,
+            "y": 4317792.83389311,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566788.889115355,
+            "y": 4317792.346879314,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566789.002330028,
+            "y": 4317791.859865517,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566789.115544701,
+            "y": 4317791.372851721,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566789.228759374,
+            "y": 4317790.885837925,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566789.341974047,
+            "y": 4317790.398824128,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566789.4551887199,
+            "y": 4317789.911810332,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.342741278777636,
+        "id": "1367_2",
+        "lane_type": 21,
+        "pos": {
+            "x": 566789.5422899561,
+            "y": 4317789.5371283,
+            "yaw": -1.342741278777636,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 20,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 1
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3650397663023448,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566789.6555353903,
+            "y": 4317789.049560032,
+            "yaw": -1.3650397663023448,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.366081710766953,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566789.7674735473,
+            "y": 4317788.5132105155,
+            "yaw": -1.366081710766953,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3663316223132294,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566789.8786359595,
+            "y": 4317787.9750317065,
+            "yaw": -1.3663316223132294,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.362582144162169,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566789.9905313121,
+            "y": 4317787.437598882,
+            "yaw": -1.362582144162169,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3546173234098946,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566790.1056675636,
+            "y": 4317786.9006442595,
+            "yaw": -1.3546173234098946,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3444123059472899,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566790.2262539736,
+            "y": 4317786.364582425,
+            "yaw": -1.3444123059472899,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.3249983875966294,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566790.3518414495,
+            "y": 4317785.832163574,
+            "yaw": -1.3249983875966294,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.2770807126245332,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566790.493018039,
+            "y": 4317785.302320234,
+            "yaw": -1.2770807126245332,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.20464448554475,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566790.6690757965,
+            "y": 4317784.785057064,
+            "yaw": -1.20464448554475,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.1395519674268444,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566790.8853588828,
+            "y": 4317784.279941734,
+            "yaw": -1.1395519674268444,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -1.073210383166433,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566791.1280334969,
+            "y": 4317783.787892727,
+            "yaw": -1.073210383166433,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.9955214661345906,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566791.4087268576,
+            "y": 4317783.31755243,
+            "yaw": -0.9955214661345906,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.922805885432633,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566791.7245934241,
+            "y": 4317782.868606775,
+            "yaw": -0.922805885432633,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.8549640863072459,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566792.0707464514,
+            "y": 4317782.443713933,
+            "yaw": -0.8549640863072459,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.7991466782135456,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566792.4443180566,
+            "y": 4317782.041677719,
+            "yaw": -0.7991466782135456,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.7396310903533203,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566792.8359355393,
+            "y": 4317781.65747791,
+            "yaw": -0.7396310903533203,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.6666160828445925,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566793.2545221534,
+            "y": 4317781.303552831,
+            "yaw": -0.6666160828445925,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.5961728153680598,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566793.6974478387,
+            "y": 4317780.980418706,
+            "yaw": -0.5961728153680598,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.5282004611596164,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566794.1613242447,
+            "y": 4317780.688933299,
+            "yaw": -0.5282004611596164,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.45882556627251575,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566794.6440376022,
+            "y": 4317780.428695712,
+            "yaw": -0.45882556627251575,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.3896645802506508,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566795.1439311269,
+            "y": 4317780.204263224,
+            "yaw": -0.3896645802506508,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.3281101431179919,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566795.656548665,
+            "y": 4317780.013372032,
+            "yaw": -0.3281101431179919,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.27700677601396734,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566796.1802880277,
+            "y": 4317779.851806277,
+            "yaw": -0.27700677601396734,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    },
+    {
+        "driving_direction": 1,
+        "heading": -0.23813351688231985,
+        "id": "1375_0",
+        "lane_type": 3,
+        "pos": {
+            "x": 566796.7108386757,
+            "y": 4317779.713811684,
+            "yaw": -0.23813351688231985,
+            "z": 0
+        },
+        "speeds": {
+            "vmax": 15,
+            "vmax_dev": 0
+        },
+        "time_window": null,
+        "type": 2
+    }
+]

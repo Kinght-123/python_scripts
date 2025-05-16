@@ -1,0 +1,37 @@
+{
+    "header": {
+        "trans_id": "942b2280-df05-4f73-aec4-0bae1a708dd4",
+        "che_id": "A533",
+        "timestamp": "2025-02-19T18:20:25.135660Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T18:20:25.135728Z",
+    "updated": "2025-02-19T18:20:25.147993Z",
+    "task_mode": 1,
+    "task_id": "COMMAND&XIbvXkgbq2",
+    "navi_id": "A533_COMMAND&XIbvXkgbq2_24",
+    "target": "PARK",
+    "sub_target": "N9_104_HEAD",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566903.2532336497,
+        "y": 4318009.257384479
+    },
+    "yaw": 1.7987627996738327,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "7"
+        }
+    ],
+    "mileage": 137.59749,
+    "operational_status": 1,
+    "host": "10.188.63.104",
+    "port": "5533",
+    "task_type": 7,
+    "frame_ts": 545013840.203507,
+    "model_type": {}
+}

@@ -1,0 +1,37 @@
+{
+    "header": {
+        "trans_id": "00afa6ec-e99f-4b1a-8a14-6250bcb14cde",
+        "che_id": "A537",
+        "timestamp": "2025-02-19T17:23:04.841407Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T17:23:04.841493Z",
+    "updated": "2025-02-19T17:23:04.843940Z",
+    "task_mode": 1,
+    "task_id": "COMMAND&G4T6LIJFtT",
+    "navi_id": "A537_COMMAND&G4T6LIJFtT_15",
+    "target": "PSTP",
+    "sub_target": "220",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566926.8892570894,
+        "y": 4317776.574982606
+    },
+    "yaw": 0.22769229085247777,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "7"
+        }
+    ],
+    "mileage": 81.87051,
+    "operational_status": 1,
+    "host": "10.188.63.104",
+    "port": "5537",
+    "task_type": 7,
+    "frame_ts": 541573520.2003031,
+    "model_type": {}
+}

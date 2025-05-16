@@ -1,0 +1,45 @@
+{
+    "header": {
+        "trace_id": "a0b838ecdfee46e494aafed3acd99755",
+        "trans_id": "5d04344c-7f83-4d4e-bce6-014df206e5e9",
+        "che_id": "A528",
+        "timestamp": "2025-02-19T17:23:15.390534Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T17:23:15.390625Z",
+    "updated": "2025-02-19T17:23:15.393209Z",
+    "state_flow": 1,
+    "task_mode": 1,
+    "trace_id": "a0b838ecdfee46e494aafed3acd99755",
+    "task_id": "0019194c97214ce7a910b487277d56e0",
+    "navi_id": "A528_0019194c97214ce7a910b487277d56e0_4",
+    "target": "O2D",
+    "sub_target": "51",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566886.4403322672,
+        "y": 4318025.762827546
+    },
+    "yaw": 1.674972345104538,
+    "gear": 3,
+    "speed": 5.4,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "0"
+        }
+    ],
+    "mileage": 145.68068,
+    "operational_status": 1,
+    "distance_to_target": 74.65873,
+    "host": "10.188.63.104",
+    "port": "5528",
+    "task_type": 3,
+    "crane_id": "O2D",
+    "rt_speed": 1.5,
+    "frame_ts": 541584040.200313,
+    "model_type": {}
+}

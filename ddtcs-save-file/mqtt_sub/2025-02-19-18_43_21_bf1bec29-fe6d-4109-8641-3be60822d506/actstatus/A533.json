@@ -1,0 +1,49 @@
+{
+    "header": {
+        "trans_id": "631ffd3e-5dab-41c4-b975-1b2575512580",
+        "che_id": "A533",
+        "timestamp": "2025-02-19T18:43:21.788183Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T18:43:21.788244Z",
+    "updated": "2025-02-19T18:43:21.805597Z",
+    "state_flow": 6,
+    "task_mode": 1,
+    "task_id": "COMMAND&P210OxVmcS",
+    "navi_id": "A533_COMMAND&P210OxVmcS_10",
+    "target": "PARK",
+    "sub_target": "N9_105_HEAD",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566947.4324459962,
+        "y": 4317788.8596668
+    },
+    "yaw": 0.46415186810510695,
+    "gear": 2,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "2"
+        }
+    ],
+    "mileage": 138.00723,
+    "operational_status": 1,
+    "distance_to_target": 81.30574,
+    "host": "10.188.63.104",
+    "port": "5533",
+    "task_type": 7,
+    "frame_ts": 546390540.204789,
+    "sender_stop": "ddtcs",
+    "stop_infos": [
+        {
+            "created": "2025-02-19T18:43:12.022959Z",
+            "sender": "ddtcs",
+            "type": 2,
+            "reason": "与A527冲突导致停车"
+        }
+    ],
+    "model_type": {}
+}

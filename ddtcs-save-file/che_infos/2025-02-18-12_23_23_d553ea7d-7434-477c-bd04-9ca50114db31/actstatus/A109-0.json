@@ -1,0 +1,17 @@
+{
+    "header": {
+        "trace_id": "ab35ff7c-3213-4a99-ad03-d4753be15373",
+        "trans_id": "bb3b104b-8daa-4073-a2ff-eeaa5bba03da",
+        "che_id": "A109-0",
+        "timestamp": "2025-02-18T12:23:22.632104Z"
+    },
+    "updated": "2025-02-18T12:23:22.664Z",
+    "point": {
+        "x": 566913.6963199285,
+        "y": 4317888.687709728
+    },
+    "yaw": 1.798,
+    "model_type": {
+        "front_type": "QC"
+    }
+}

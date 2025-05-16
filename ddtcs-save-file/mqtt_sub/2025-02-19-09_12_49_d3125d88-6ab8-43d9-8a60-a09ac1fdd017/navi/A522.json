@@ -1,0 +1,12 @@
+{
+    "header": {
+        "trace_id": "def5b3be-9fa8-4313-9147-519a90ebc29a",
+        "trans_id": "bafd42c0-ba5b-4067-9ddd-8e9aceb67572",
+        "che_id": "A522",
+        "timestamp": "2025-02-19T04:26:19.652481Z"
+    },
+    "task_id": "def5b3be-9fa8-4313-9147-519a90ebc29a",
+    "navi_id": "A522_def5b3be-9fa8-4313-9147-519a90ebc29a_7",
+    "seq_num": 7,
+    "mode": 2
+}

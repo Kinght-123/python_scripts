@@ -1,0 +1,50 @@
+{
+    "header": {
+        "trace_id": "990729f1f053478988948d27b880dfd5",
+        "trans_id": "b4a3c060-0d55-4b11-bd84-462603c4d4b8",
+        "che_id": "A531",
+        "timestamp": "2025-02-20T09:52:01.588080Z",
+        "version": "v2"
+    },
+    "created": "2025-02-20T09:52:01.588117Z",
+    "updated": "2025-02-20T09:52:01.601692Z",
+    "state_flow": 6,
+    "task_mode": 1,
+    "trace_id": "990729f1f053478988948d27b880dfd5",
+    "task_id": "a50bb08071304772b16095bd3498232a",
+    "navi_id": "A531_a50bb08071304772b16095bd3498232a_2255",
+    "target": "O4D",
+    "sub_target": "28",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566863.7490979573,
+        "y": 4318050.308646169
+    },
+    "yaw": -2.915642035306985,
+    "soh": 100,
+    "soc": 99,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "2"
+        }
+    ],
+    "mileage": 171.78355,
+    "operational_status": 1,
+    "distance_to_target": 79.09134,
+    "host": "10.188.63.104",
+    "port": "5531",
+    "task_type": 4,
+    "crane_id": "O4D",
+    "frame_ts": 600910080.255565,
+    "sender_stop": "ddtcs",
+    "stop_infos": [
+        {
+            "created": "2025-02-20T03:31:41.650965Z",
+            "sender": "ddtcs",
+            "type": 2,
+            "reason": "与A535冲突导致停车"
+        }
+    ],
+    "model_type": {}
+}

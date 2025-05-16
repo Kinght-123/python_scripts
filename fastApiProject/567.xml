@@ -1,0 +1,23 @@
+<message formId="FORM_TRUCK_EMPTY_TO_ORIGIN" ack="N" MSID="-5953245">
+    <che CHID="PE411" equipType="TRUCK" MTEU="2" DSTA="ICTY" OPMD="TRUCK" CHASSIS="BOMBCART" status="Working"
+         locale="en_US" location="Q01" userID="465006">
+        <pool name="POOL_Q01">
+            <list count="1" type="pow">
+                <pow name="Q1" mode="TrucksOnly"/>
+            </list>
+        </pool>
+        <work count="1" moveStage="PLANNED" planningIntent="SINGLE">
+            <job MVKD="LOAD" pow="Q01" age="916" priority="N" shift="0" moveStage="PLANNED">
+                <container EQID="TRHU8108829" LNTH="40" QWGT="30740" MNRS="" QCAT="E" EQTP="45G1" HGHT="2896" LOPR="CMA"
+                           TRKC="" ACRR="TRUCK" DCRR="WANGJLT_002" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="3" ISGP="GP"
+                           GRAD="" RMRK="" JPOS="CTR" PUTJPOS="CTR"/>
+                <position PPOS="01B5601.1" refID="Y.x`:01B.56.01.1" AREA="01B56" AREA_TYPE="YardRow" type="from"
+                          DOOR="A" TKPS="2"/>
+                <position PPOS="Q01-0" refID="V.WANGJLT_002:A.46.07.82" AREA="Q01" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                          TKPS="2" VBAY="46A"/>
+            </job>
+        </work>
+        <displayMsg msgID="0">No Error</displayMsg>
+    </che>
+</message>
+

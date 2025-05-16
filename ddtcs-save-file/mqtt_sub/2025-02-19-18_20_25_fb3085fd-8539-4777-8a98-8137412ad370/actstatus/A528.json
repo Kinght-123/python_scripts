@@ -1,0 +1,51 @@
+{
+    "header": {
+        "trace_id": "3f68731cf2fe4273bc048c866c16b1c6",
+        "trans_id": "c5fa1725-6f16-429b-8880-a99573706300",
+        "che_id": "A528",
+        "timestamp": "2025-02-19T18:20:25.038079Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T18:20:25.038142Z",
+    "updated": "2025-02-19T18:20:25.038772Z",
+    "state_flow": 6,
+    "task_mode": 1,
+    "trace_id": "3f68731cf2fe4273bc048c866c16b1c6",
+    "task_id": "c288c48990b941f4bfd42d3b8fae7ef1",
+    "navi_id": "A528_c288c48990b941f4bfd42d3b8fae7ef1_31",
+    "target": "O2D",
+    "sub_target": "56",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566831.4366978311,
+        "y": 4317867.992097699
+    },
+    "yaw": -1.3425047113668338,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "2"
+        }
+    ],
+    "mileage": 147.4614,
+    "operational_status": 1,
+    "distance_to_target": 28.643423,
+    "host": "10.188.63.104",
+    "port": "5528",
+    "task_type": 3,
+    "crane_id": "O2D",
+    "frame_ts": 545013640.2035071,
+    "sender_stop": "ddtcs",
+    "stop_infos": [
+        {
+            "created": "2025-02-19T18:17:22.767021Z",
+            "sender": "ddtcs",
+            "type": 2,
+            "reason": "与A529冲突导致停车"
+        }
+    ],
+    "model_type": {}
+}

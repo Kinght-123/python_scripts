@@ -1,0 +1,42 @@
+{
+    "header": {
+        "trace_id": "943cc893ac064262b8cf06975c32765d",
+        "trans_id": "87d154ee-448d-48c9-8474-77b6da2d2c14",
+        "che_id": "A533",
+        "timestamp": "2025-02-20T14:59:34.593215Z",
+        "version": "v2"
+    },
+    "created": "2025-02-20T14:59:34.593263Z",
+    "updated": "2025-02-20T14:59:34.598320Z",
+    "state_flow": 1,
+    "task_mode": 1,
+    "trace_id": "943cc893ac064262b8cf06975c32765d",
+    "task_id": "54b59fc0-c6f0-455f-b18f-d771e9a50d51",
+    "navi_id": "A533_54b59fc0-c6f0-455f-b18f-d771e9a50d51_1083",
+    "target": "PARK",
+    "sub_target": "N9_106_HEAD",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566895.0883246653,
+        "y": 4318005.481550263
+    },
+    "yaw": 1.7982777889292245,
+    "gear": 3,
+    "soh": 100,
+    "soc": 99,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "11"
+        }
+    ],
+    "mileage": 171.51952,
+    "operational_status": 1,
+    "distance_to_target": 1.6361576,
+    "host": "10.188.63.104",
+    "port": "5533",
+    "task_type": 7,
+    "crane_id": "PARK",
+    "frame_ts": 619363340.27275,
+    "model_type": {}
+}

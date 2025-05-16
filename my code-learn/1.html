@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>带文本框的前端页面示例</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        padding: 20px;
+    }
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .input-container {
+        margin-bottom: 20px;
+    }
+    label {
+        font-weight: bold;
+    }
+    input[type="text"], textarea {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+    textarea {
+        height: 150px;
+    }
+    button {
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    button:hover {
+        background-color: #45a049;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h2>带文本框的前端页面示例</h2>
+    <div class="input-container">
+        <label for="name">姓名：</label>
+        <input type="text" id="name" name="name" placeholder="请输入您的姓名...">
+    </div>
+    <div class="input-container">
+        <label for="email">邮箱：</label>
+        <input type="text" id="email" name="email" placeholder="请输入您的邮箱地址...">
+    </div>
+    <div class="input-container">
+        <label for="message">留言：</label>
+        <textarea id="message" name="message" placeholder="请输入您的留言..."></textarea>
+    </div>
+    <button type="submit">提交</button>
+</div>
+
+</body>
+</html>

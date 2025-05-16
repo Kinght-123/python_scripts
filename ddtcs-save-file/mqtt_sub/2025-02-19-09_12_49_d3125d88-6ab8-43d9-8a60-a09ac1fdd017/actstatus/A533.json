@@ -1,0 +1,43 @@
+{
+    "header": {
+        "trace_id": "cee2e91166c144519eaaebf39e1fc567",
+        "trans_id": "289e6023-253c-41fc-b065-67006e27af19",
+        "che_id": "A533",
+        "timestamp": "2025-02-19T09:12:49.765809Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T09:12:49.765858Z",
+    "updated": "2025-02-19T09:12:49.776274Z",
+    "state_flow": 1,
+    "task_mode": 1,
+    "trace_id": "cee2e91166c144519eaaebf39e1fc567",
+    "task_id": "ba1086ac82614452a3489e6a9e96da00",
+    "navi_id": "A533_ba1086ac82614452a3489e6a9e96da00_9246",
+    "target": "O1D",
+    "sub_target": "43",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566890.852905611,
+        "y": 4318025.996662847
+    },
+    "yaw": 1.6565861770648902,
+    "gear": 3,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "3"
+        }
+    ],
+    "mileage": 136.223,
+    "operational_status": 1,
+    "distance_to_target": 82.187,
+    "host": "10.188.63.104",
+    "port": "5533",
+    "task_type": 3,
+    "crane_id": "O1D",
+    "frame_ts": 512158540.172908,
+    "model_type": {}
+}

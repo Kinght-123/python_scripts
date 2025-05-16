@@ -1,0 +1,44 @@
+{
+    "header": {
+        "trace_id": "ac58792dfb5741d7a451407cf6626cc9",
+        "trans_id": "3130bc1b-9603-4910-866f-9c63b8b3e83a",
+        "che_id": "A530",
+        "timestamp": "2025-02-18T12:23:23.500718Z",
+        "version": "v2"
+    },
+    "created": "2025-02-18T12:23:23.500765Z",
+    "updated": "2025-02-18T12:23:23.519204Z",
+    "state_flow": 1,
+    "task_mode": 1,
+    "trace_id": "ac58792dfb5741d7a451407cf6626cc9",
+    "task_id": "233156cc2d994c20933dd81f9331f1d2",
+    "navi_id": "A530_233156cc2d994c20933dd81f9331f1d2_13",
+    "target": "O4D",
+    "sub_target": "59",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566733.2393339907,
+        "y": 4318007.414545247
+    },
+    "yaw": -1.6083939558182871,
+    "gear": 3,
+    "speed": 7.848,
+    "soh": 100,
+    "soc": 99,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "0"
+        }
+    ],
+    "mileage": 96.23306,
+    "operational_status": 1,
+    "distance_to_target": 75.37623,
+    "host": "10.188.63.104",
+    "port": "5530",
+    "task_type": 4,
+    "crane_id": "O4D",
+    "rt_speed": 2.1936,
+    "frame_ts": 437192300.10309,
+    "model_type": {}
+}

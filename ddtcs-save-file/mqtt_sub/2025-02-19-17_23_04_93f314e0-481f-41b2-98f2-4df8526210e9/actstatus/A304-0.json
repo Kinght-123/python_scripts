@@ -1,0 +1,17 @@
+{
+    "header": {
+        "trace_id": "0b80774d-bdd9-41cc-89fc-acb4ee672926",
+        "trans_id": "f3a1dd76-b706-4d25-82df-f5cb939aaf97",
+        "che_id": "A304-0",
+        "timestamp": "2025-02-19T17:23:04.470408Z"
+    },
+    "updated": "2025-02-19T17:23:04.478856Z",
+    "point": {
+        "x": 566774.8981403945,
+        "y": 4317839.108229542
+    },
+    "yaw": -1.34252,
+    "model_type": {
+        "front_type": "RTG"
+    }
+}

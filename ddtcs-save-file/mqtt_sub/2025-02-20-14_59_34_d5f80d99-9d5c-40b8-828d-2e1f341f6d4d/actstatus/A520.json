@@ -1,0 +1,51 @@
+{
+    "header": {
+        "trace_id": "b3780fceeec04059987d721acd32e5ec",
+        "trans_id": "00a9911c-389d-45b5-9ba8-a66c1be52cd2",
+        "che_id": "A520",
+        "timestamp": "2025-02-20T14:59:34.545198Z",
+        "version": "v2"
+    },
+    "created": "2025-02-20T14:59:34.545253Z",
+    "updated": "2025-02-20T14:59:34.551606Z",
+    "state_flow": 6,
+    "task_mode": 1,
+    "trace_id": "b3780fceeec04059987d721acd32e5ec",
+    "task_id": "687324bdf4ea42f58f09c56184df80ec",
+    "navi_id": "A520_687324bdf4ea42f58f09c56184df80ec_12",
+    "target": "Q109",
+    "sub_target": "5",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566935.7200154399,
+        "y": 4317849.8108421685
+    },
+    "yaw": 1.7988718756818707,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "2"
+        }
+    ],
+    "mileage": 183.18307,
+    "operational_status": 1,
+    "distance_to_target": 26.867075,
+    "host": "10.188.63.104",
+    "port": "5520",
+    "task_type": 1,
+    "crane_id": "Q109",
+    "frame_ts": 619363160.2727499,
+    "sender_stop": "ddtcs",
+    "stop_infos": [
+        {
+            "created": "2025-02-20T14:49:40.928220Z",
+            "sender": "ddtcs",
+            "type": 2,
+            "reason": "与A524冲突导致停车"
+        }
+    ],
+    "model_type": {}
+}

@@ -1,0 +1,42 @@
+{
+    "header": {
+        "trans_id": "0fb92c48-c1c1-4477-940b-d08f3c45dec0",
+        "che_id": "A525",
+        "timestamp": "2025-02-19T17:23:04.874086Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T17:23:04.874127Z",
+    "updated": "2025-02-19T17:23:04.877766Z",
+    "state_flow": 1,
+    "task_mode": 1,
+    "task_id": "COMMAND&C8RJf19cxf",
+    "navi_id": "A525_COMMAND&C8RJf19cxf_8",
+    "target": "PARK",
+    "sub_target": "YCTP_6D_TAIL",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566708.2854445314,
+        "y": 4318008.881748953
+    },
+    "yaw": -2.914622176770798,
+    "gear": 3,
+    "speed": 16.56,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "0"
+        }
+    ],
+    "mileage": 168.34625,
+    "operational_status": 1,
+    "distance_to_target": 67.92131,
+    "host": "10.188.63.104",
+    "port": "5525",
+    "task_type": 7,
+    "rt_speed": 4.5822754,
+    "frame_ts": 541573640.2003031,
+    "model_type": {}
+}

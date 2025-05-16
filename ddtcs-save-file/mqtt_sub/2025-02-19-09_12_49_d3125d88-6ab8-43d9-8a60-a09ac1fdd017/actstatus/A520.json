@@ -1,0 +1,39 @@
+{
+    "header": {
+        "trace_id": "6ed113875b034276ae378be503e7fbca",
+        "trans_id": "2f962830-657c-40e6-bcde-9c836d2d78d5",
+        "che_id": "A520",
+        "timestamp": "2025-02-19T09:12:49.693805Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T09:12:49.693844Z",
+    "updated": "2025-02-19T09:12:49.702188Z",
+    "task_mode": 1,
+    "trace_id": "6ed113875b034276ae378be503e7fbca",
+    "task_id": "2863783d-717b-4ca8-8426-545cb2749926",
+    "navi_id": "A520_2863783d-717b-4ca8-8426-545cb2749926_12",
+    "target": "PARK",
+    "sub_target": "LAT-UP_4D_2",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566774.6577599294,
+        "y": 4317771.363255247
+    },
+    "yaw": 0.22817294421085516,
+    "soh": 100,
+    "soc": 99,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "7"
+        }
+    ],
+    "mileage": 136.19676,
+    "operational_status": 1,
+    "host": "10.188.63.104",
+    "port": "5520",
+    "task_type": 7,
+    "crane_id": "PARK",
+    "frame_ts": 512158400.17290795,
+    "model_type": {}
+}

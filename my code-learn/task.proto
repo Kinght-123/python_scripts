@@ -1,0 +1,35 @@
+// task.proto
+
+syntax = "proto3";
+
+package common;
+
+import "google/protobuf/timestamp.proto";
+
+message Header {
+  string user_id = 1;
+}
+
+enum OrderStatus {
+  OPEN = 0;
+  IN_PROGRESS = 1;
+  CLOSED = 2;
+}
+
+message Container {
+  string id = 1;
+  double length = 2;
+  double width = 3;
+  double height = 4;
+}
+
+message Task {
+  Header header = 1;
+  google.protobuf.Timestamp updated = 2;
+  string trace_id = 3;
+  int32 order_version = 4;
+  string task_id = 5;
+  int32 task_version = 6;
+  OrderStatus status = 7;
+  repeated Container containers = 8;
+}

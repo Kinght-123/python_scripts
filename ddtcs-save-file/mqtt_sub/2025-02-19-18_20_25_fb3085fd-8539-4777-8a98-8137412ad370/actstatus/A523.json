@@ -1,0 +1,49 @@
+{
+    "header": {
+        "trans_id": "60f02956-06bd-4b2e-94d5-cd6fcb201cb4",
+        "che_id": "A523",
+        "timestamp": "2025-02-19T18:20:25.041749Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T18:20:25.041806Z",
+    "updated": "2025-02-19T18:20:25.044753Z",
+    "state_flow": 6,
+    "task_mode": 1,
+    "task_id": "COMMAND&jGP8CzKNiL",
+    "navi_id": "A523_COMMAND&jGP8CzKNiL_2",
+    "target": "PARK",
+    "sub_target": "N9_104_HEAD",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566942.2288477981,
+        "y": 4317729.833916547
+    },
+    "yaw": 0.2280889132515442,
+    "gear": 2,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "2"
+        }
+    ],
+    "mileage": 147.3576,
+    "operational_status": 1,
+    "distance_to_target": 79.71627,
+    "host": "10.188.63.104",
+    "port": "5523",
+    "task_type": 7,
+    "frame_ts": 545013660.2035071,
+    "sender_stop": "ddtcs",
+    "stop_infos": [
+        {
+            "created": "2025-02-19T18:20:21.775977Z",
+            "sender": "ddtcs",
+            "type": 2,
+            "reason": "与A532冲突导致停车"
+        }
+    ],
+    "model_type": {}
+}

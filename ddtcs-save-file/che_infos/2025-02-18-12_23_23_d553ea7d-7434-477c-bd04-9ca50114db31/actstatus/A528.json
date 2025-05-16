@@ -1,0 +1,54 @@
+{
+    "header": {
+        "trace_id": "3d31749e50f344e9af7a16a3e9ce0f8f",
+        "trans_id": "3b3609c9-e0cd-4ca6-a462-d5b064a3e1b1",
+        "che_id": "A528",
+        "timestamp": "2025-02-18T12:23:23.613843Z",
+        "version": "v2"
+    },
+    "created": "2025-02-18T12:23:23.613902Z",
+    "updated": "2025-02-18T12:23:23.622418Z",
+    "state_flow": 5,
+    "task_mode": 1,
+    "trace_id": "3d31749e50f344e9af7a16a3e9ce0f8f",
+    "task_id": "6d42fc5ec25a4757842281f5d517110b",
+    "navi_id": "A528_6d42fc5ec25a4757842281f5d517110b_11",
+    "target": "Q110",
+    "sub_target": "7",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566931.7801984864,
+        "y": 4317832.306968095
+    },
+    "yaw": 1.9524373891947955,
+    "gear": 3,
+    "speed": 0.216,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "1"
+        }
+    ],
+    "mileage": 99.686264,
+    "operational_status": 1,
+    "distance_to_target": 80.65002,
+    "host": "10.188.63.104",
+    "port": "5528",
+    "task_type": 1,
+    "crane_id": "Q110",
+    "rt_speed": 0.06528,
+    "frame_ts": 437192280.10309,
+    "sender_stop": "ddtcs",
+    "stop_infos": [
+        {
+            "created": "2025-02-18T12:23:22.410405Z",
+            "sender": "ddtcs",
+            "type": 2,
+            "reason": "与A526冲突导致停车"
+        }
+    ],
+    "model_type": {}
+}

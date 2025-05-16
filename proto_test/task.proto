@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package common;
+
+
+enum Gender {
+    UNKNOWN = 0; // 未知
+    MALE = 1;  // 男
+    FEMALE = 2;  // 女
+}
+
+message Person {
+    // 定义字段，包含字段编号，类型和名称
+    string name = 1; // 姓名
+    int32 id = 2; // 唯一标识符
+    string email = 3; // 邮箱地址
+    Gender gender = 4; // 性别
+}
+
+

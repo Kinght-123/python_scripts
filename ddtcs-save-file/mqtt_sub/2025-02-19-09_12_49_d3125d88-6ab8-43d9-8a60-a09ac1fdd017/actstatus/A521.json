@@ -1,0 +1,39 @@
+{
+    "header": {
+        "trace_id": "ba3f774b99c94a9bbe5fde66d0e5e86c",
+        "trans_id": "1edd4e3a-6379-4d11-a901-2232b6f5650d",
+        "che_id": "A521",
+        "timestamp": "2025-02-19T09:12:49.787360Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T09:12:49.787455Z",
+    "updated": "2025-02-19T09:12:49.796491Z",
+    "task_mode": 1,
+    "trace_id": "ba3f774b99c94a9bbe5fde66d0e5e86c",
+    "task_id": "7671d379-0bc1-4a95-b70e-6e247385b6c7",
+    "navi_id": "A521_7671d379-0bc1-4a95-b70e-6e247385b6c7_7",
+    "target": "PARK",
+    "sub_target": "YCTP_3D_TAIL",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566794.4601534556,
+        "y": 4317796.6545223845
+    },
+    "yaw": -1.341635712782845,
+    "soh": 100,
+    "soc": 99,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "7"
+        }
+    ],
+    "mileage": 133.61374,
+    "operational_status": 1,
+    "host": "10.188.63.104",
+    "port": "5521",
+    "task_type": 7,
+    "crane_id": "PARK",
+    "frame_ts": 512158340.17290795,
+    "model_type": {}
+}

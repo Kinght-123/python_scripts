@@ -1,0 +1,166 @@
+<!--navi的前箱指令-->
+[2025-03-09 01:27:10,621][INFO]: handler.py[line:122]
+<message formId="FORM_TRUCK_EMPTY_TO_ORIGIN" ack="N" MSID="-6597475">
+    <che CHID="A518" equipType="TRUCK" MTEU="2" DSTA="ICTY" OPMD="TRUCK" CHASSIS="BOMBCART" status="Working"
+         locale="en_US" location="Q11" userID="490001">
+        <pool name="POOL_Q11">
+            <list count="1" type="pow">
+                <pow name="Q11" mode="TrucksOnly"/>
+            </list>
+        </pool>
+        <work count="2" moveStage="PLANNED" planningIntent="TWIN">
+            <job MVKD="LOAD" pow="Q11" age="723" priority="N" shift="1" moveStage="PLANNED">
+                <container EQID="TEMU2840628" LNTH="20" QWGT="22200" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="QMN"
+                           TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP"
+                           GRAD="" RMRK="" JPOS="FWD" PUTJPOS="FWD"/>
+                <position PPOS="01D5304.2" refID="Y.TECT:01D.53.04.2" AREA="01D53" AREA_TYPE="YardRow" type="from"
+                          DOOR="A" TKPS="1"/>
+                <position PPOS="Q11-0" refID="V.FUB_007:B.05.02.04" AREA="Q11" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                          TKPS="1" VBAY="05B"/>
+            </job>
+            <job MVKD="LOAD" pow="Q11" age="723" priority="N" shift="3" moveStage="PLANNED">
+                <container EQID="TEMU5262499" LNTH="20" QWGT="22420" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="STM"
+                           TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP"
+                           GRAD="" RMRK="" JPOS="AFT" PUTJPOS="AFT"/>
+                <position PPOS="01D5305.2" refID="Y.TECT:01D.53.05.2" AREA="01D53" AREA_TYPE="YardRow" type="from"
+                          DOOR="A"/>
+                <position PPOS="Q11-0" refID="V.FUB_007:B.07.02.04" AREA="Q11" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                          VBAY="07B"/>
+            </job>
+        </work>
+        <displayMsg msgID="0">No Error</displayMsg>
+    </che>
+</message>
+
+<!--navi发的后箱指令-->
+        [2025-03-09 01:29:58,806][INFO]: handler.py[line:122]
+<message formId="FORM_TRUCK_EMPTY_AT_ORIGIN" ack="N" MSID="-6597919">
+<che CHID="A518" equipType="TRUCK" MTEU="2" DSTA="ICAY" OPMD="TRUCK" CHASSIS="BOMBCART" status="Working"
+     locale="en_US" location="01D5304.2" userID="490001">
+    <pool name="POOL_Q11">
+        <list count="1" type="pow">
+            <pow name="Q11" mode="TrucksOnly"/>
+        </list>
+    </pool>
+    <work count="2" moveStage="PLANNED" planningIntent="TWIN">
+        <job MVKD="LOAD" pow="Q11" age="726" priority="N" shift="1" moveStage="CARRY_UNDERWAY">
+            <container EQID="TEMU2840628" LNTH="20" QWGT="22200" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="QMN"
+                       TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP"
+                       GRAD="" RMRK="" JPOS="FWD" PUTJPOS="FWD"/>
+            <position PPOS="A518" refID="E.TECT:A518..." AREA="A518" AREA_TYPE="ITV" type="from" DOOR="A" TKPS="1"/>
+            <position PPOS="Q11-0" refID="V.FUB_007:B.05.02.04" AREA="Q11" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                      TKPS="1" VBAY="05B"/>
+        </job>
+        <job MVKD="LOAD" pow="Q11" age="726" priority="N" shift="2" moveStage="PLANNED">
+            <container EQID="TEMU5262499" LNTH="20" QWGT="22420" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="STM"
+                       TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP"
+                       GRAD="" RMRK="" JPOS="AFT" PUTJPOS="AFT"/>
+            <position PPOS="01D5305.2" refID="Y.TECT:01D.53.05.2" AREA="01D53" AREA_TYPE="YardRow" type="from"
+                      DOOR="A"/>
+            <position PPOS="Q11-0" refID="V.FUB_007:B.07.02.04" AREA="Q11" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                      VBAY="07B"/>
+        </job>
+    </work>
+    <displayMsg msgID="0">No Error</displayMsg>
+</che>
+</message>
+[2025-03-09 01:29:59,035][INFO]: task_master.py[line:1220] - A518 Send Task:d8d8393512de4ecf88e373ff0a331f00
+
+
+        [2025-03-09 01:30:08,685][INFO]: handler.py[line:122]
+<message formId="FORM_TRUCK_EMPTY_AT_ORIGIN" ack="N" MSID="-6597944">
+<che CHID="A518" equipType="TRUCK" MTEU="2" DSTA="ICAY" OPMD="TRUCK" CHASSIS="BOMBCART" status="Working" locale="en_US"
+     location="01D5304.2" userID="490001">
+    <pool name="POOL_Q11">
+        <list count="1" type="pow">
+            <pow name="Q11" mode="TrucksOnly"/>
+        </list>
+    </pool>
+    <work count="2" moveStage="PLANNED" planningIntent="TWIN">
+        <job MVKD="LOAD" pow="Q11" age="726" priority="N" shift="1" moveStage="CARRY_UNDERWAY">
+            <container EQID="TEMU2840628" LNTH="20" QWGT="22200" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="QMN"
+                       TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP" GRAD=""
+                       RMRK="" JPOS="FWD" PUTJPOS="FWD"/>
+            <position PPOS="A518" refID="E.TECT:A518..." AREA="A518" AREA_TYPE="ITV" type="from" DOOR="A" TKPS="1"/>
+            <position PPOS="Q11-0" refID="V.FUB_007:B.05.02.04" AREA="Q11" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                      TKPS="1" VBAY="05B"/>
+        </job>
+        <job MVKD="LOAD" pow="Q11" age="726" priority="N" shift="2" moveStage="PLANNED">
+            <container EQID="TEMU5262499" LNTH="20" QWGT="22420" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="STM"
+                       TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP" GRAD=""
+                       RMRK="" JPOS="AFT" PUTJPOS="AFT"/>
+            <position PPOS="01D5305.2" refID="Y.TECT:01D.53.05.2" AREA="01D53" AREA_TYPE="YardRow" type="from" DOOR="A"
+                      TKPS="3"/>
+            <position PPOS="Q11-0" refID="V.FUB_007:B.07.02.04" AREA="Q11" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                      TKPS="3" VBAY="07B"/>
+        </job>
+    </work>
+    <displayMsg msgID="0">No Error</displayMsg>
+</che>
+</message>
+
+
+        [2025-03-09 01:31:28,979][INFO]: handler.py[line:122]
+<message formId="FORM_TRUCK_EMPTY_AT_ORIGIN" ack="N" MSID="-6598148">
+<che CHID="A518" equipType="TRUCK" MTEU="2" DSTA="ICAY" OPMD="TRUCK" CHASSIS="BOMBCART" status="Working" locale="en_US"
+     location="01D5304.2" userID="490001">
+    <pool name="POOL_Q11">
+        <list count="1" type="pow">
+            <pow name="Q11" mode="TrucksOnly"/>
+        </list>
+    </pool>
+    <work count="2" moveStage="PLANNED" planningIntent="TWIN">
+        <job MVKD="LOAD" pow="Q11" age="727" priority="N" shift="1" moveStage="CARRY_UNDERWAY">
+            <container EQID="TEMU2840628" LNTH="20" QWGT="22200" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="QMN"
+                       TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP" GRAD=""
+                       RMRK="" JPOS="FWD" PUTJPOS="FWD"/>
+            <position PPOS="A518" refID="E.TECT:A518..." AREA="A518" AREA_TYPE="ITV" type="from" DOOR="A" TKPS="1"/>
+            <position PPOS="Q11-0" refID="V.FUB_007:B.05.02.04" AREA="Q11" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                      TKPS="1" VBAY="05B"/>
+        </job>
+        <job MVKD="LOAD" pow="Q11" age="727" priority="N" shift="2" moveStage="PLANNED">
+            <container EQID="TEMU5262499" LNTH="20" QWGT="22420" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="STM"
+                       TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP" GRAD=""
+                       RMRK="" JPOS="AFT" PUTJPOS="AFT"/>
+            <position PPOS="01D5305.2" refID="Y.TECT:01D.53.05.2" AREA="01D53" AREA_TYPE="YardRow" type="from" DOOR="A"
+                      TKPS="3"/>
+            <position PPOS="Q11-0" refID="V.FUB_007:B.07.02.04" AREA="Q11" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                      TKPS="3" VBAY="07B"/>
+        </job>
+    </work>
+    <displayMsg msgID="0">No Error</displayMsg>
+</che>
+</message>
+
+
+        [2025-03-09 01:32:13,211][INFO]: handler.py[line:122]
+<message formId="FORM_TRUCK_EMPTY_AT_ORIGIN" ack="N" MSID="-6598272">
+<che CHID="A518" equipType="TRUCK" MTEU="2" DSTA="ICAY" OPMD="TRUCK" CHASSIS="BOMBCART" status="Working" locale="en_US"
+     location="01D5304.2" userID="490001">
+    <pool name="POOL_Q11">
+        <list count="1" type="pow">
+            <pow name="Q11" mode="TrucksOnly"/>
+        </list>
+    </pool>
+    <work count="2" moveStage="PLANNED" planningIntent="TWIN">
+        <job MVKD="LOAD" pow="Q11" age="728" priority="N" shift="1" moveStage="CARRY_UNDERWAY">
+            <container EQID="TEMU2840628" LNTH="20" QWGT="22200" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="QMN"
+                       TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP" GRAD=""
+                       RMRK="" JPOS="FWD" PUTJPOS="FWD"/>
+            <position PPOS="A518" refID="E.TECT:A518..." AREA="A518" AREA_TYPE="ITV" type="from" DOOR="A" TKPS="1"/>
+            <position PPOS="Q11-0" refID="V.FUB_007:B.05.02.04" AREA="Q11" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                      TKPS="1" VBAY="05B"/>
+        </job>
+        <job MVKD="LOAD" pow="Q11" age="728" priority="N" shift="2" moveStage="PLANNED">
+            <container EQID="TEMU5262499" LNTH="20" QWGT="22420" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="STM"
+                       TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP" GRAD=""
+                       RMRK="" JPOS="AFT" PUTJPOS="AFT"/>
+            <position PPOS="01D5305.2" refID="Y.TECT:01D.53.05.2" AREA="01D53" AREA_TYPE="YardRow" type="from" DOOR="A"
+                      TKPS="3"/>
+            <position PPOS="Q11-0" refID="V.FUB_007:B.07.02.04" AREA="Q11" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                      TKPS="3" VBAY="07B"/>
+        </job>
+    </work>
+    <displayMsg msgID="0">No Error</displayMsg>
+</che>
+</message>

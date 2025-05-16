@@ -1,0 +1,30 @@
+<message formId="FORM_TRUCK_EMPTY_AT_ORIGIN" ack="N" MSID="-6600607">
+<che CHID="A502" equipType="TRUCK" MTEU="2" DSTA="ICAY" OPMD="TRUCK" CHASSIS="BOMBCART" status="Working" locale="en_US"
+     location="03D4106.2" userID="490001">
+    <pool name="POOL_Q10">
+        <list count="1" type="pow">
+            <pow name="Q10" mode="TrucksOnly"/>
+        </list>
+    </pool>
+    <work count="2" moveStage="PLANNED" planningIntent="TWIN">
+        <job MVKD="LOAD" pow="Q10" age="998" priority="N" shift="7" moveStage="CARRY_UNDERWAY">
+            <container EQID="CICU7269744" LNTH="20" QWGT="18840" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="STM"
+                       TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP" GRAD=""
+                       RMRK="" JPOS="FWD" PUTJPOS="FWD"/>
+            <position PPOS="A502" refID="E.TECT:A502..." AREA="A502" AREA_TYPE="ITV" type="from" DOOR="Y" TKPS="1"/>
+            <position PPOS="Q10-0" refID="V.FUB_007:B.21.08.02" AREA="Q10" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                      TKPS="1" VBAY="21B"/>
+        </job>
+        <job MVKD="LOAD" pow="Q10" age="998" priority="N" shift="7" moveStage="PLANNED">
+            <container EQID="TEMU2185845" LNTH="20" QWGT="19669" MNRS="" QCAT="E" EQTP="22G1" HGHT="2591" LOPR="STM"
+                       TRKC="" ACRR="TRUCK" DCRR="FUB_007" RLSE="" RFRT="" CCON="" ISHZ="N" DWTS="2" ISGP="GP" GRAD=""
+                       RMRK="" JPOS="AFT" PUTJPOS="AFT"/>
+            <position PPOS="03D4106.1" refID="Y.TECT:03D.41.06.1" AREA="03D41" AREA_TYPE="YardRow" type="from" DOOR="A"
+                      TKPS="3"/>
+            <position PPOS="Q10-0" refID="V.FUB_007:B.23.08.02" AREA="Q10" AREA_TYPE="Vessel" type="to" DOOR="Y"
+                      TKPS="3" VBAY="23B"/>
+        </job>
+    </work>
+    <displayMsg msgID="0">No Error</displayMsg>
+</che>
+</message>

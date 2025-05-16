@@ -1,0 +1,37 @@
+{
+    "header": {
+        "trans_id": "bc4be5a8-188e-4eed-a61c-e4381acb2a46",
+        "che_id": "A520",
+        "timestamp": "2025-02-19T18:20:24.974647Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T18:20:24.974701Z",
+    "updated": "2025-02-19T18:20:25.000121Z",
+    "task_mode": 1,
+    "task_id": "COMMAND&gW4wJurn4l",
+    "navi_id": "A520_COMMAND&gW4wJurn4l_7",
+    "target": "PSTP",
+    "sub_target": "230",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566944.0771872135,
+        "y": 4317694.3318361845
+    },
+    "yaw": 0.2280571049555788,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "7"
+        }
+    ],
+    "mileage": 149.73611,
+    "operational_status": 1,
+    "host": "10.188.63.104",
+    "port": "5520",
+    "task_type": 7,
+    "frame_ts": 545013600.203507,
+    "model_type": {}
+}

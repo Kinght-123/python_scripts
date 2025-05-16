@@ -1,0 +1,53 @@
+[2025-02-24 01:09:03,371][INFO]: Taskmgr-oy v4.5.12-rc1 Starting
+[2025-02-24 01:09:03,371][INFO]: Starting scheduler-service
+[2025-02-24 01:09:03,371][INFO]: [task] <A512: COMMAND&sDmXP2b2UO,Q111,5,MID,DELIVER,处理中> che maybe offline, waiting to go online
+[2025-02-24 01:09:03,371][INFO]: ^-- start ok
+[2025-02-24 01:09:03,372][INFO]: [task] <A513: 9e065195-b6d0-4c02-8926-84c67d386742,PSTP,217,FRONT|REAR,DELIVER,处理中> che maybe offline, waiting to go online
+[2025-02-24 01:09:03,372][INFO]: Starting charger-timer
+[2025-02-24 01:09:03,372][INFO]: [task] <A518: COMMAND&ZwWq4AxOiZ,O6D,59,MID,RECEIVE,处理中> che maybe offline, waiting to go online
+[2025-02-24 01:09:03,373][INFO]: ^-- start ok
+[2025-02-24 01:09:03,373][INFO]: [task] <A504: 5f6d72b3-f1fb-419f-b7fc-841864a1f4b2,PSTP,218,MID,DELIVER,处理中> che maybe offline, waiting to go online
+[2025-02-24 01:09:03,374][INFO]: Starting taskmgr-api-service
+[2025-02-24 01:09:03,374][INFO]: [task] <A511: fcd9da954baa41caab04f3f8564ac6d3,O5D,61,FRONT|REAR,RECEIVE,处理中> che maybe offline, waiting to go online
+[2025-02-24 01:09:03,375][INFO]: [task] <A505: 4f5e256074e64ba1978880c7cd3305a8,O1D,64,MID,RECEIVE,处理中> che maybe offline, waiting to go online
+[2025-02-24 01:09:03,376][INFO]: ^-- start ok
+[2025-02-24 01:09:03,378][INFO]: [task] <A508: 07dfcc498b20459c8f509acf63a86efd,O5D,61,FRONT|REAR,RECEIVE,处理中> che maybe offline, waiting to go online
+[2025-02-24 01:09:03,379][INFO]: Starting quay-timer
+[2025-02-24 01:09:03,379][INFO]: [task] <A514: f7f92e911ebb476e83ef75750bd7aa94,O1D,64,MID,RECEIVE,处理中> che maybe offline, waiting to go online
+[2025-02-24 01:09:03,380][INFO]: [task] <A506: 8fb3597588f34e5788061b07be70d2a0,O1D,64,MID,RECEIVE,处理中> che maybe offline, waiting to go online
+[2025-02-24 01:09:03,382][INFO]: ^-- start ok
+[2025-02-24 01:09:03,383][INFO]: Starting task-syncer-service
+[2025-02-24 01:09:03,384][INFO]: ^-- start ok
+[2025-02-24 01:09:03,385][INFO]: Starting yard-timer
+[2025-02-24 01:09:03,386][INFO]: ^-- start ok
+[2025-02-24 01:09:03,387][INFO]: Starting report-che-to-tos-service
+[2025-02-24 01:09:03,388][INFO]: ^-- start ok
+[2025-02-24 01:09:03,388][INFO]: Starting stack-block-timer
+[2025-02-24 01:09:03,389][INFO]: ^-- start ok
+[2025-02-24 01:09:03,390][INFO]: Starting dispatcher-timer
+[2025-02-24 01:09:03,392][INFO]: ^-- start ok
+[2025-02-24 01:09:03,393][INFO]: Starting che-executor
+[2025-02-24 01:09:03,393][INFO]: ^-- start ok
+[2025-02-24 01:09:03,394][INFO]: Starting tos-service
+[2025-02-24 01:09:03,397][INFO]: ^-- start ok
+[2025-02-24 01:09:03,399][INFO]: Starting che-mqtt-internal-service
+[2025-02-24 01:09:03,401][INFO]: ^-- start ok
+[2025-02-24 01:09:03,403][INFO]: Starting data-collector-service
+[2025-02-24 01:09:03,405][INFO]: taskmgr-che-mqtt-internal-service 10.188.73.108:1884 subscribed to topic oy/from/v2/act_status/notify/#, connect-status: 0
+[2025-02-24 01:09:03,405][INFO]: ^-- start ok
+[2025-02-24 01:09:03,409][INFO]: Starting safe-detection-service
+[2025-02-24 01:09:03,410][INFO]: [che-A506] receive login
+[2025-02-24 01:09:03,415][INFO]: ^-- start ok
+[2025-02-24 01:09:03,423][INFO]: data-collector-service 10.188.73.108:1884 connect-status: 0
+[2025-02-24 01:09:03,425][INFO]: [che-A511] receive login
+[2025-02-24 01:09:03,427][INFO]: Connected to amqp://trunk:**@10.188.73.108:5672//prod
+[2025-02-24 01:09:03,436][INFO]: [che-A510] receive login
+[2025-02-24 01:09:03,448][INFO]: [che-A505] receive login
+[2025-02-24 01:09:03,454][INFO]: <Che: A506> proxy init ok.
+[2025-02-24 01:09:03,456][INFO]: <Che: A511> proxy init ok.
+[2025-02-24 01:09:03,460][INFO]: <Che: A505> proxy init ok.
+[2025-02-24 01:09:03,466][INFO]: <Che: A510> proxy init ok.
+
+
+
+[2025-02-24 01:19:36,430][INFO]: [fmp.v2.k.cmd.arrive_status.taskmgr.A506] published {'header': {'trace_id': 'ff4d0bcc17d64be787339c39f069c225', 'trans_id': 'abcf8877eb8e4ab6ad56adac288d82a9', 'che_id': 'A506', 'timestamp': '2025-02-24T01:19:36.429398Z', 'version': 'v2'}, 'created': '2025-02-24T01:19:36.429398Z', 'order_id': '-4465601', 'task_id': '8fb3597588f34e5788061b07be70d2a0', 'crane_id': 'OO1D', 'target': 'O1D', 'sub_target': '64', 'status': 'AT_TZ', 'containers': [{'id': 'TEMU7986615', 'size': 40, 'weight': 25952, 'position': 'CON_POS_MID', 'slot': 'A.38.08.84'}], 'empty': True, 'task_type': 'EMPTY_TO_YC'}

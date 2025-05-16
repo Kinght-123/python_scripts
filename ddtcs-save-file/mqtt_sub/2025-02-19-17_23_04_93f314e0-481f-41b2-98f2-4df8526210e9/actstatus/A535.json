@@ -1,0 +1,42 @@
+{
+    "header": {
+        "trans_id": "2426010e-b41c-4353-b747-5e2feda147b2",
+        "che_id": "A535",
+        "timestamp": "2025-02-19T17:23:05.008153Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T17:23:05.008207Z",
+    "updated": "2025-02-19T17:23:05.015554Z",
+    "state_flow": 1,
+    "task_mode": 1,
+    "task_id": "COMMAND&ngSRKhTV87",
+    "navi_id": "A535_COMMAND&ngSRKhTV87_6",
+    "target": "PARK",
+    "sub_target": "YCTP_6D_TAIL",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566832.9337884942,
+        "y": 4318034.751392542
+    },
+    "yaw": -2.594301108491454,
+    "gear": 3,
+    "speed": 9.72,
+    "soh": 100,
+    "soc": 99,
+    "empty": true,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "0"
+        }
+    ],
+    "mileage": 79.22573,
+    "operational_status": 1,
+    "distance_to_target": 77.31867,
+    "host": "10.188.63.104",
+    "port": "5535",
+    "task_type": 7,
+    "rt_speed": 2.70048,
+    "frame_ts": 541573680.200303,
+    "model_type": {}
+}

@@ -1,0 +1,42 @@
+{
+    "header": {
+        "trace_id": "25e05ca1ccc94fe189ecb44c4ade4cca",
+        "trans_id": "46a9d66a-2bf5-474e-9e68-c00251e5db64",
+        "che_id": "A527",
+        "timestamp": "2025-02-19T18:41:38.094776Z",
+        "version": "v2"
+    },
+    "created": "2025-02-19T18:41:38.094837Z",
+    "updated": "2025-02-19T18:41:38.107110Z",
+    "state_flow": 9,
+    "task_mode": 1,
+    "trace_id": "25e05ca1ccc94fe189ecb44c4ade4cca",
+    "task_id": "ad8ebea0-8cb2-4ebf-bb9c-245de025e847",
+    "navi_id": "A527_ad8ebea0-8cb2-4ebf-bb9c-245de025e847_17",
+    "target": "PSTP",
+    "sub_target": "217",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566922.1456630512,
+        "y": 4317797.033006758
+    },
+    "yaw": 0.22787212568086043,
+    "gear": 2,
+    "soh": 100,
+    "soc": 99,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "2"
+        }
+    ],
+    "mileage": 153.60825,
+    "operational_status": 1,
+    "distance_to_target": 0.2906673,
+    "host": "10.188.63.104",
+    "port": "5527",
+    "task_type": 10,
+    "crane_id": "PSTP",
+    "frame_ts": 546286920.204693,
+    "model_type": {}
+}

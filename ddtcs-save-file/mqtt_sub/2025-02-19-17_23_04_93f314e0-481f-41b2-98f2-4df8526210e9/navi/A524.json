@@ -1,0 +1,12 @@
+{
+    "header": {
+        "trace_id": "COMMAND&1m46s7uhl8",
+        "trans_id": "e3190211-6344-47ce-8e4b-3142d144383b",
+        "che_id": "A524",
+        "timestamp": "2025-02-19T17:15:37.810950Z"
+    },
+    "task_id": "COMMAND&1m46s7uhl8",
+    "navi_id": "A524_COMMAND&1m46s7uhl8_46",
+    "seq_num": 46,
+    "mode": 2
+}

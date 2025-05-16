@@ -1,0 +1,50 @@
+{
+    "header": {
+        "trace_id": "9c4648e1e15b47fa9770e8f2a9d12677",
+        "trans_id": "b9e13513-e0fe-4e57-ae72-14df447bfcc8",
+        "che_id": "A521",
+        "timestamp": "2025-02-20T09:52:01.585361Z",
+        "version": "v2"
+    },
+    "created": "2025-02-20T09:52:01.585412Z",
+    "updated": "2025-02-20T09:52:01.598948Z",
+    "state_flow": 6,
+    "task_mode": 1,
+    "trace_id": "9c4648e1e15b47fa9770e8f2a9d12677",
+    "task_id": "42092e8b-84d9-47f2-a160-4f871d6c617a",
+    "navi_id": "A521_42092e8b-84d9-47f2-a160-4f871d6c617a_2256",
+    "target": "PSTP",
+    "sub_target": "100",
+    "is_attendance_tos": true,
+    "point": {
+        "x": 566900.2327387818,
+        "y": 4318002.697919219
+    },
+    "yaw": 1.798871873300184,
+    "soh": 100,
+    "soc": 99,
+    "faults": [
+        {
+            "code": "0",
+            "desc": "2"
+        }
+    ],
+    "mileage": 169.61412,
+    "operational_status": 1,
+    "distance_to_target": 81.69788,
+    "host": "10.188.63.104",
+    "port": "5521",
+    "task_type": 10,
+    "crane_id": "PSTP",
+    "frame_ts": 600910200.255565,
+    "sender_stop": "ddtcs",
+    "stop_infos": [
+        {
+            "created": "2025-02-20T03:33:49.998028Z",
+            "sender": "ddtcs",
+            "type": 2,
+            "reason": "与A532冲突导致停车"
+        }
+    ],
+    "model_type": {}
+}

@@ -1,0 +1,174 @@
+{
+  "status": 200,
+  "data": {
+    "slot": {
+      "11": {
+        "11": {
+          "12": {
+            "occupied": true,
+            "id": "MEDU2108147"
+          }
+        },
+        "12": {
+          "12": {
+            "occupied": true,
+            "id": "MEDU3888578"
+          }
+        },
+        "13": {
+          "14": {
+            "occupied": true,
+            "id": "MSDU2456767"
+          },
+          "16": {
+            "occupied": true,
+            "id": "MEDU5911023"
+          }
+        },
+        "14": {
+          "16": {
+            "occupied": true,
+            "id": "TRHU2140063"
+          }
+        },
+        "09": {
+          "10": {
+            "occupied": true,
+            "id": "MSMU2346581"
+          }
+        }
+      },
+      "22": {
+        "08": {
+          "74": {
+            "occupied": true,
+            "id": "MSMU7667711"
+          }
+        }
+      },
+      "25": {
+        "10": {
+          "12": {
+            "occupied": true,
+            "id": "CAIU3008394"
+          },
+          "02": {
+            "occupied": true,
+            "id": "FCIU6357910"
+          }
+        },
+        "11": {
+          "02": {
+            "occupied": true,
+            "id": "MEDU3112373"
+          },
+          "04": {
+            "occupied": true,
+            "id": "MEDU5191772"
+          }
+        },
+        "12": {
+          "02": {
+            "occupied": true,
+            "id": "GLDU3557433"
+          },
+          "04": {
+            "occupied": true,
+            "id": "MSMU2724763"
+          }
+        },
+        "15": {
+          "04": {
+            "occupied": true,
+            "id": "MEDU6698458"
+          }
+        },
+        "16": {
+          "04": {
+            "occupied": true,
+            "id": "GLDU5613752"
+          }
+        },
+        "17": {
+          "10": {
+            "occupied": true,
+            "id": "UETU2866763"
+          }
+        },
+        "09": {
+          "12": {
+            "occupied": true,
+            "id": "TCKU3116952"
+          },
+          "02": {
+            "occupied": true,
+            "id": "FCIU3651731"
+          },
+          "04": {
+            "occupied": true,
+            "id": "MSNU2324457"
+          }
+        }
+      },
+      "26": {
+        "17": {
+          "14": {
+            "occupied": true,
+            "id": "MSNU7193278"
+          }
+        }
+      },
+      "27": {
+        "10": {
+          "02": {
+            "occupied": true,
+            "id": "FCIU5823399"
+          }
+        },
+        "11": {
+          "04": {
+            "occupied": true,
+            "id": "MEDU5091705"
+          },
+          "02": {
+            "occupied": true,
+            "id": "MSDU2996169"
+          }
+        },
+        "12": {
+          "02": {
+            "occupied": true,
+            "id": "DRYU2137649"
+          },
+          "04": {
+            "occupied": true,
+            "id": "MSNU1225125"
+          }
+        },
+        "15": {
+          "04": {
+            "occupied": true,
+            "id": "BEAU2773100"
+          }
+        },
+        "16": {
+          "06": {
+            "occupied": true,
+            "id": "TGBU2766428"
+          }
+        },
+        "09": {
+          "04": {
+            "occupied": true,
+            "id": "MEDU3894570"
+          },
+          "02": {
+            "occupied": true,
+            "id": "GLDU5203927"
+          }
+        }
+      }
+    }
+  },
+  "msg": "查询成功"
+}
